@@ -55,7 +55,6 @@ A apresentação tem como finalidade **comunicar de maneira objetiva os requisit
 
 ## Disciplina
 
-**Gestão e Qualidade de Software**
 **Garantia da Qualidade de Software**
 
 **Professor:** Daniel Henrique Matos de Paiva
