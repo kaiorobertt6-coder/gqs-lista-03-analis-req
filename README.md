@@ -45,7 +45,7 @@ A apresentação tem como finalidade **comunicar de maneira objetiva os requisit
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 * **Icaro Ferreira de Oliveira** – RA 325111358
 * **Kaio Robertt Moreira Abreu** – RA 32510906
@@ -53,7 +53,7 @@ A apresentação tem como finalidade **comunicar de maneira objetiva os requisit
 
 ---
 
-## 🎓 Disciplina
+## Disciplina
 
 **Gestão e Qualidade de Software**
 **Garantia da Qualidade de Software**
