@@ -35,7 +35,7 @@ A apresentação foi estruturada para uma apresentação técnica aos stakeholde
 2. Problema e escopo da solução;
 3. Principais requisitos funcionais e fluxo crítico do usuário;
 4. Requisitos não funcionais e metas de qualidade;
-5. Arquitetura e modelagem de dados;
+5. Diagrama de Entidade e Relacionamento;
 6. Diagrama de classes e regras de negócio;
 7. Estratégia de versionamento e Code Review;
 8. Estratégia de testes e validação da qualidade;
